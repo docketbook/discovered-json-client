@@ -1,0 +1,24 @@
+{
+  "name": "discovered-json-client",
+  "version": "0.0.1",
+  "description": "A simple frontend for Restify JSONClient that relies on Consul for service discovery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/docketbook/discovered-json-client.git"
+  },
+  "dependencies": {
+    "validator":"4.4.0",
+    "assert-plus":"1.0.0",
+    "async":"1.5.0"
+  },
+  "author": "Dave Finster <df@docketbook.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/docketbook/discovered-json-client/issues"
+  },
+  "homepage": "https://github.com/docketbook/discovered-json-client#readme"
+}
